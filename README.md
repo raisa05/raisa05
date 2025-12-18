@@ -12,7 +12,7 @@
       <img height="200" alt="Avatar photo of Raisa" src="https://github.com/raisa05.png" alt="Avatar">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Raisa;Welcome+to+My+GitHub+Profile;Computer+Science+Student;4.0+GPA+%7C+Chancellor's+Scholar;AI+%26+Data+Science+Enthusiast;Full-Stack+Developer;Hackathon+Winner;GDG+on+Campus+Founder;Problem+Solver+%26+Innovator" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Raisa;Welcome+to+My+GitHub+Profile;Final+Year+Computer+Science+Student;AI+%26+Data+Science+Enthusiast;Full-Stack+Developer;Problem+Solver+%26+Innovator" alt="Typing SVG" /></a>
   </div>
 </div>
 
